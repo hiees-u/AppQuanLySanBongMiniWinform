@@ -1,0 +1,101 @@
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\bin\Debug\DoAN.NET_.exe.config
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\bin\Debug\DoAN.NET_.exe
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\bin\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.AssemblyReference.cache
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Properties.Resources.resources
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.GenerateResource.cache
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.CoreCompileInputs.cache
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.exe
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.frmMainMenu.resources
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmDatSan.resources
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangNhap.resources
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangKi.resources
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmHeThong.resources
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmQuanLiKinhDoanh.resources
+C:\Users\tovuo\OneDrive\Desktop\Bài tập nhóm\Đồ án Lập trình .NET\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmQuanLiSan.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\bin\Debug\DoAN.NET_.exe.config
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.exe
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.csprojResolveAssemblyReference.cache
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmHeThong.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmQuanLiKinhDoanh.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmQuanLiSan.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.frmMainMenu.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangNhap.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmDatSan.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Properties.Resources.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.GenerateResource.Cache
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\bin\Debug\DoAN.NET_.exe
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\bin\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\DoAN.NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangKy.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\bin\Debug\DoAN.NET_.exe.config
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.exe
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\bin\Debug\DoAN.NET_.exe
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\bin\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.csprojResolveAssemblyReference.cache
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangKy.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmHeThong.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmQuanLiKinhDoanh.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmQuanLiSan.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.frmMainMenu.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangNhap.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmDatSan.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.Properties.Resources.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.GenerateResource.Cache
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\DoAN.NET_.exe.config
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.exe
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\DoAN.NET_.exe
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.csprojResolveAssemblyReference.cache
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangKy.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmHeThong.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmQuanLiSan.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.frmMainMenu.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangNhap.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmDatSan.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Properties.Resources.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.GenerateResource.Cache
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmThongKe.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\RdlCompile.cache
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\RdlCompile.compiled
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\ThongKe.rdlc
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\ThongKe.rdlc
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\DoAN.NET_.exe.config
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\DoAN.NET_.exe
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\DoAN.NET_.pdb
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangKy.resources
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmHeThong.resources
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmThongKe.resources
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmQuanLiSan.resources
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.frmMainMenu.resources
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangNhap.resources
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmDatSan.resources
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.exe
+C:\Users\ADMIN\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\DoAN.NET_.exe.config
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.exe
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\ThongKe.rdlc
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\DoAN.NET_.exe
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\bin\Debug\DoAN.NET_.pdb
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.csprojResolveAssemblyReference.cache
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangKy.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmHeThong.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmQuanLiSan.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.frmMainMenu.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.DangNhap.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmDatSan.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Properties.Resources.resources
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.csproj.GenerateResource.Cache
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\RdlCompile.cache
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\RdlCompile.compiled
+C:\Users\tovuo\OneDrive\Desktop\DoAN..NET_(3)\DoAN..NET_(Official)\DoAN.NET_\obj\Debug\DoAN.NET_.Forms.frmThongKeLichDS.resources
